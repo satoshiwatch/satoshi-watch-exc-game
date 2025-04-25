@@ -1,0 +1,80 @@
+
+:///C:/Users/quint/Downloads/index.html
+ = require('node-telegram-bot-api');
+
+// Substitua pelo token real do seu bot
+cont('', { polling: 7797903521:AAHUk6OUIZYiBJ9LdQRNj_PgqDzl429nKhAtrue });
+
+// Comando de start ou play
+.onText(/\/(start|play)/, (msg) => {
+  ..chat.id;
+
+  .sendMessage, "🎮 Clica no botão abaixo para jogar e ganhar satoshis!", {
+    reply_markup: {
+      inline_keyboard: [[
+        { text: "Jogar Agora", url: "https://teulink-do-jogo.com" }
+      ]]
+    }
+  });
+});
+ = require('node-telegram-bot-api');
+
+// Substitua pelo token real do seu bot
+cont('', { polling: 7797903521:AAHUk6OUIZYiBJ9LdQRNj_PgqDzl429nKhAtrue });
+
+// Comando de start ou play
+.onText(/\/(start|play)/, 
+
+  .sendMessage, "🎮 Clica no botão abaixo para jogar e ganhar satoshis!", {
+    reply_markup: {
+      online_keyboard: [[
+        { text: "Jogar Agora", url: "file:///C:/Users/quint/Downloads/index.html }
+      ]]
+    }
+  });
+});
+ = require('express');
+// mini app = express();
+/const path = require('path');
+
+// Serve os arquivos do jogo (HTML5)
+//app.use(express.static(path.join(__dirname, 'public')));
+
+// Inicia o servidor
+//app.listen(3000, () => {
+  .console.log('Servidor rodando na porta 3000');
+});
+
+// Bot do Telegram (exemplo simplificado)
+//const TelegramBot = require('node-telegram-bot-api');
+//const bot = new TelegramBot('SEU_TOKEN_AQUI', { polling: true });
+
+//bot.onText(/\/start/, (msg) => {
+ // bot.sendMessage(msg.chat.id, 'Bem-vindo ao Satoshi Watch!');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
